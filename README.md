@@ -13,3 +13,6 @@ Agenda de eventos de 2024.
 
 # Outubro
  - (Repair Day - 26)[https://openrepair.org/international-repair-day/]
+
+# November
+- [AARON SWARTZ DAY](https://www.aaronswartzday.org/)
