@@ -6,18 +6,23 @@ Agenda de eventos de 2024.
 # Janeiro
 
 # Março
-
 - Open Data Day (Open Knowledge) - qualquer dia entre 02/03 e 08/03 para organizar alguma coisa
 - Tosconf - 23 de Março (Sábado).
 - Document Freedom Day - 27 de março (quarta)
 
+# Abril
+ - Open Hardware
+   
 # Maio
-
 - 30/05 a 02/06 - Python Sudeste em São Carlos-SP
 
 # Outubro
--
  - (Repair Day - 26)[https://openrepair.org/international-repair-day/]
+- (Aniversário do LHC)[https://lhc.net.br]
+- 
 
-# November
+# Novembro
 - [AARON SWARTZ DAY](https://www.aaronswartzday.org/)
+- H2HC
+
+# Dezembro
