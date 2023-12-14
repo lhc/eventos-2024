@@ -17,7 +17,6 @@ Agenda de eventos de 2024.
 - cryptorave
 - 30/05 a 02/06 - Python Sudeste em São Carlos-SP
 
-
 # Outubro
  - (Repair Day - 26)[https://openrepair.org/international-repair-day/]
 - (Aniversário do LHC)[https://lhc.net.br]
