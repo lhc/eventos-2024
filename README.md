@@ -1,7 +1,11 @@
 # eventos-2024
-Agenda de eventos de 2024.
+Roadmap para os eventos de 2024. 
+* Eventos no LHC
+* Eventos com participações do Hackerspace
+* Eventos com temas interessantes que pode ter paticipação de algum membro
 
 # Janeiro
+- 08/01 (Reunião mensal do LHC)[https://eventos.lhc.net.br/event/reuniao-mensal-do-lhc-4]
 - [Explorando o NuttX com o ESP32: Desenvolva Produtos de Forma Profissional - 23 de Janeiro 19 horas](https://eventos.lhc.net.br/event/explorando-o-nuttx-com-o-esp32-desenvolva-produtos-de-forma-profissional)
 - Café Reparo
  
